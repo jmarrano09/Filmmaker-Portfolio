@@ -1,3 +1,3 @@
 # Filmmaker-Portfolio
 
-## link: https://jmarrano09.github.io/Crystal-Collector/filmmaker-portfolio/index.html
+## link: https://jmarrano09.github.io/Filmmaker-Portfolio/index.html
